@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "qa-jianbin-2",
-  "VITE_ORDERLY_BROKER_NAME": "Sir Otterly",
+  "VITE_ORDERLY_BROKER_NAME": "deepseek",
   "VITE_BROKER_EOA_ADDRESS": "0x88898a182b693576ed69e04cf8866af6e124d3f6",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "Sir Otterly",
+  "VITE_APP_NAME": "deepseek",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
